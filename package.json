@@ -1,0 +1,14 @@
+{
+  "name": "philip",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Philip",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.1"
+  }
+}
